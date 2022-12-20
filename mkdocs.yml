@@ -1,0 +1,5 @@
+site_name: Bruna Andrade resume
+site_url: https://andradebru.github.io
+nav:
+  - Home: index.md
+  - About: about.md
