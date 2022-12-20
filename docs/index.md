@@ -1,6 +1,6 @@
 # Bruna Andrade
 
-olabrunaandrade@gmail.com || (12) 99621-4886 || [github.com/andradebru](https://github.com/andradebru)
+olabrunaandrade@gmail.com || +55 (12) 99621-4886 || [github.com/andradebru](https://github.com/andradebru)
 
 ## whoami
 

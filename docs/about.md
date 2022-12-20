@@ -5,6 +5,7 @@
 
 Besides a webdeveloper intern I am:
 
+- brazilian
 - platform and puzzle gamer
 - cinema appreciator
 - music lover and karaoke singer
