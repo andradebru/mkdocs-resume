@@ -1,6 +1,0 @@
-site_name: Bruna Andrade resume
-site_url: https://andradebru.github.io
-nav:
-  - Bruna's Resume: index.md
-  - About: about.md
-theme: readthedocs
