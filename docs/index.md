@@ -1,17 +1,44 @@
-# Welcome to MkDocs
+# Bruna Andrade
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+olabrunaandrade@gmail.com || (12) 99621-4886 || [github.com/andradebru](https://github.com/andradebru)
 
-## Commands
+## whoami
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Hello! I'm Bruna Andrade, a software development student and webdeveloper intern @ Buser Tech.
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## history
+
+- **2012 - 2021**: graphic designer, graduated at UTFPr in 2018.
+  Worked at many different projects and areas, from printed media to websites and mobile apps UI.
+- **nov 2021**: decided to become a developer, started a new graduation in tech and applied to internship programs.
+- **apr 2022**: accepted to `Buser Tech`, Buser company internship and education program.
+- **now **: contributing as full stack intern developer at Buser, looking to become a backend dev. Ready to new challenges.
+
+---
+
+## --help
+
+how I can help:
+
+- webdesign with `HTML and CSS`
+- construct websites with `Vue.js`, `Django` and `postgreSQL`
+- make queries with SQL
+- `docker`ize projects
+  see my projects at github: [github.com/andradebru](https://github.com/andradebru)
+
+---
+
+## mkdir projects
+
+what I want to do and learn:
+
+- some personal projects end to end
+- improve as a backend developer
+- learn more about data structure and computer science
+
+Visit my webpage:
+
+[<img src="https://user-images.githubusercontent.com/77248375/170168031-95d3e49e-ba05-4bd1-a6e8-06a9c93c7383.png" alt="bruna andrade personal static page">](https://andradebru.github.io/dfinal-minha-pagina/)
+<br>
